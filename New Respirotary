@@ -1,0 +1,17 @@
+ using System;
+ using System.Linq;
+ using System.Text;
+ using System.Threading.Tasks;
+ using System.Collections.Generic;
+
+ newspace MyConsoleApplication
+ {
+     class Program
+	 {
+	    
+		ststic Void Main(String[]args)
+		{
+		  Console.Writeline("Hello Github Destop!");
+		  }
+	}
+}	
